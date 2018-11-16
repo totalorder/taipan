@@ -1,0 +1,6 @@
+port: 80
+
+database:
+  username: usr-readonly
+  password: pwd-production
+
